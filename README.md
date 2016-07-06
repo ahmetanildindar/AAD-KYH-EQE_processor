@@ -5,3 +5,8 @@ en son meydana gelen depremi
 - belirlemek
 - kayıt alan istasyonları bulmak
 - elde edilen istasyon kayıtlarını görselleştirmektir. 
+
+Bu proje açık kaynak olarak düşünülmektedir. Amacım, Jupyter notebook kullanan _Deprem Mühendisliği_ konusunda çalışan araştırmacılar için basit bir araç üretmektir. 
+
+Dr. Ahmet Anıl Dindar
+@ahmetanildindar
