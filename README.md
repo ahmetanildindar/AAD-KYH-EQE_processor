@@ -9,4 +9,5 @@ en son meydana gelen depremi
 Bu proje açık kaynak olarak düşünülmektedir. Amacım, Jupyter notebook kullanan _Deprem Mühendisliği_ konusunda çalışan araştırmacılar için basit bir araç üretmektir. 
 
 Dr. Ahmet Anıl Dindar
-@ahmetanildindar
+
+(@ahmetanildindar - ahmetanildindar@gmail.com)
