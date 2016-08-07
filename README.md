@@ -11,10 +11,3 @@ Bu proje açık kaynak olarak düşünülmektedir. Amacım, Jupyter notebook kul
 Dr. Ahmet Anıl Dindar
 
 (@ahmetanildindar - ahmetanildindar@gmail.com)
-
-- a
-- b
-- c
-  - d
-  - f
-      - g 
